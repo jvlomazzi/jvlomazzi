@@ -1,6 +1,6 @@
 <span>
-<img align="left" src="assets/img/software-dev.png" alt="jvlomazzi" width="250px" />
-<p><h3>João Matos</h3>💻 Currently working as a software engineer at <a href="https://www.gupy.io" target="_blank">Gupy</a>.<br>💡 Machine Learning & Neural Networks Enthusiast<br><br><br></p>
+<!-- <img align="left" src="assets/img/software-dev.png" alt="jvlomazzi" width="250px" /> -->
+<p><h3>João Matos</h3>💻 Currently working as a software engineer at <a href="https://www.gupy.io" target="_blank">Gupy</a>.<br>💡 Machine Learning & Neural Networks Enthusiast<br><br></p>
 </span>
 <br/>
 
