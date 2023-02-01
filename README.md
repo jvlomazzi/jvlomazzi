@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-[![jvlomazzi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jvlomazzi)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=jvlomazzi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=jvlomazzi&theme=dark&hide_border=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=jvlomazzi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues&layout=compact)  -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=jvlomazzi&theme=dark&hide_border=true&mode=week)
 
 <br/>
