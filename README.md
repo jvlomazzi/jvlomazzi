@@ -18,6 +18,6 @@
 <br/><br/>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jvlomazzi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues&layout=compact)  -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=jvlomazzi&theme=dark&hide_border=true&mode=week)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jvlomazzi&theme=dark&hide_border=true&mode=weekly)
 
 <br/>
