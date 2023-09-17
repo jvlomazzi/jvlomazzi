@@ -1,6 +1,6 @@
 <span>
 <!-- <img align="left" src="assets/img/software-dev.png" alt="jvlomazzi" width="250px" /> -->
-<p>💻 Currently working as software engineer at <a href="https://www.gupy.io" target="_blank">Gupy</a>.<br></p>
+<p>💻 Currently working as a software engineer at <a href="https://www.gupy.io" target="_blank">Gupy</a>.<br></p>
 </span>
 <br/>
 
